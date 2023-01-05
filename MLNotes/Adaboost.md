@@ -14,7 +14,7 @@ $$
 
 训练过程：
 
-![Adaboost训练过程](/Users/admin/Documents/MLNotes/Adaboost训练过程.png)
+![Adaboost训练过程](/Users/admin/Documents/MachineLearningTutorial/MLNotes/Adaboost训练过程.png)
 
 
 

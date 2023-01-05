@@ -10,7 +10,7 @@ $$
 
 
 
-![sigmoid](/Users/admin/Documents/MLNotes/sigmoid.png)
+![sigmoid](/Users/admin/Documents/MachineLearningTutorial/MLNotes/sigmoid.png)
 
 
 
